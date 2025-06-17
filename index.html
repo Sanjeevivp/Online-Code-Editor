@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pro Code Editor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🧠 Online Code Editor</h1>
+    <div class="controls">
+      <button id="themeToggle">🌗 Toggle Theme</button>
+    </div>
+  </header>
+
+  <div class="tab-bar">
+    <button class="tab active" data-tab="html">HTML</button>
+    <button class="tab" data-tab="css">CSS</button>
+    <button class="tab" data-tab="js">JavaScript</button>
+  </div>
+
+  <div class="editor-container">
+    <textarea id="html" class="editor active" placeholder="Write HTML..."></textarea>
+    <textarea id="css" class="editor" placeholder="Write CSS..."></textarea>
+    <textarea id="js" class="editor" placeholder="Write JavaScript..."></textarea>
+  </div>
+
+  <h2>🔍 Live Preview</h2>
+  <iframe id="preview"></iframe>
+
+  <script src="script.js"></script>
+</body>
+</html>
