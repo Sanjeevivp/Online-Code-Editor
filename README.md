@@ -3,7 +3,7 @@
 A fully functional, browser-based code editor with live preview.  
 Write HTML, CSS, and JavaScript in separate tabs and see the output instantly!
 
-🔗 **Live Demo**: [Click here to try it](https://online-code-editor-sanjeevi-vps-projects.vercel.app/)
+🔗 **Live Demo**: [Click here](https://online-code-editor-sanjeevi-vps-projects.vercel.app/)
 
 ---
 
