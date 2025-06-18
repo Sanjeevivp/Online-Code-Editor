@@ -52,18 +52,36 @@ If you like this project, feel free to:
 - 📢 Share with others
 
 ---
+---
 
 ## 👨‍💻 Developed By
 
-**Sanjeevi VP**  
-📧 [sanjeevivp8@gmail.com](mailto:sanjeevivp8@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sanjeevi-vp)  
-🐙 [GitHub](https://github.com/Sanjeevivp)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Sanjeevi%20VP-blue?style=flat-square&logo=github" alt="Name Badge" />
+</p>
+
+📧 Email: [sanjeevivp8@gmail.com](mailto:sanjeevivp8@gmail.com)
+
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/SanjeeviVP" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sanjeevi-vp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sanjeevi_vp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
