@@ -9,7 +9,7 @@ Write HTML, CSS, and JavaScript in separate tabs and see the output instantly!
 
 ## 🚀 Tech Stack & Hosting
 
-<p align="left">
+<p align="center">
   <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
@@ -56,18 +56,19 @@ If you like this project, feel free to:
 
 ## 👨‍💻 Developed By
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Sanjeevi%20VP-blue?style=flat-square&logo=github" alt="Name Badge" />
 </p>
 
-📧 Email: [sanjeevivp8@gmail.com](mailto:sanjeevivp8@gmail.com)
 
-<p align="left">
+<p align="center">
   <!-- GitHub -->
   <a href="https://github.com/SanjeeviVP" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
+  <a href="sanjeevivp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sanjeevi-vp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
