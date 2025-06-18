@@ -63,22 +63,11 @@ If you like this project, feel free to:
 
 
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/SanjeeviVP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
   <a href="sanjeevivp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sanjeevi-vp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sanjeevi_vp/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://wa.me/9442234287"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanjeevi-vp-8ab3a02b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sanjeevivp1/profilecard/?igsh=ZTZlYXlhN3Uza2dh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
 </p>
 
 ---
