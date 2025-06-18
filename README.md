@@ -1,11 +1,11 @@
-<p align="center">
 # 🧠 Online Code Editor (Mini-Pro)
 
 A fully functional, browser-based code editor with live preview.  
 Write HTML, CSS, and JavaScript in separate tabs and see the output instantly!
 
-🔗 **Live Demo**: [Click here](https://online-code-editor-sanjeevi-vps-projects.vercel.app/)
-</p>
+<p align="center">
+🔗 **Live Demo**: [Click here](https://online-code-editor-sanjeevi-vps-projects.vercel.app/)</p>
+
 ---
 
 ## 🚀 Tech Stack & Hosting
